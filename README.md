@@ -16,3 +16,42 @@ This library includes codes and ideas from various places.
 
 ### Requirements
 This library needs to be compiled with C++11 features enabled -- any Arduino IDE later than 2015 will do that.
+
+Caractéristiques:
+Humidité relative
+
+Résolution: 0,1% HR
+
+Répétabilité: ± 1% HR
+
+Précision: 25 ℃ ± 5% HR
+
+Interchangeabilité: entièrement interchangeable
+
+Temps de réponse: 1 / e (63%) 25 ℃ 20 s 1 m / s d'air 6 s
+
+Lent: <± 0,3% HR
+
+Stabilité à long terme: <± 0,5% HR / an
+
+Température
+
+Résolution: 0,1 ℃
+
+Répétabilité: ±. 2 ℃
+
+Précision: 25 ℃ ± 0,5 ℃
+
+Temps de réponse: 1 / e (63%) 20 s
+
+Caractéristiques électriques
+
+Alimentation: DC2.7-5.5V
+
+Courant: 1mA
+
+En veille: 60μA
+
+Période d'échantillonnage:> 2 s
+
+Définition des broches 1.VDD 2.SDA 3.GND 4.SCL
